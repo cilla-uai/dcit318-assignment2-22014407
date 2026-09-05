@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\REPOSITORY\Abstract Classes and Methods\Abstract Classes and Methods\bin\Debug\net10.0\Abstract Classes and Methods.exe
+C:\Users\User\OneDrive\Documents\REPOSITORY\Abstract Classes and Methods\Abstract Classes and Methods\bin\Debug\net10.0\Abstract Classes and Methods.deps.json
+C:\Users\User\OneDrive\Documents\REPOSITORY\Abstract Classes and Methods\Abstract Classes and Methods\bin\Debug\net10.0\Abstract Classes and Methods.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\REPOSITORY\Abstract Classes and Methods\Abstract Classes and Methods\bin\Debug\net10.0\Abstract Classes and Methods.dll
+C:\Users\User\OneDrive\Documents\REPOSITORY\Abstract Classes and Methods\Abstract Classes and Methods\bin\Debug\net10.0\Abstract Classes and Methods.pdb
+C:\Users\User\OneDrive\Documents\REPOSITORY\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net10.0\Abstract Classes and Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\REPOSITORY\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net10.0\Abstract Classes and Methods.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\REPOSITORY\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net10.0\Abstract Classes and Methods.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\REPOSITORY\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net10.0\Abstract Classes and Methods.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\REPOSITORY\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net10.0\Abstract Classes and Methods.dll
+C:\Users\User\OneDrive\Documents\REPOSITORY\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net10.0\refint\Abstract Classes and Methods.dll
+C:\Users\User\OneDrive\Documents\REPOSITORY\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net10.0\Abstract Classes and Methods.pdb
+C:\Users\User\OneDrive\Documents\REPOSITORY\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net10.0\Abstract Classes and Methods.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\REPOSITORY\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net10.0\ref\Abstract Classes and Methods.dll
+C:\Users\User\OneDrive\Documents\REPOSITORY\Abstract Classes and Methods\Abstract Classes and Methods\obj\Debug\net10.0\Abstract.DB259C38.Up2Date
